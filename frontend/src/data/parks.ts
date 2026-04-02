@@ -2,6 +2,8 @@ import disneylandParkAttractions from "./parks/disneylandPark.json";
 import waltDisneyStudiosParkAttractions from "./parks/waltDisneyStudiosPark.json";
 import type { Attraction, ParkMapDefinition, ParkId } from "../types/attraction";
 
+const BASE_URL = (import.meta as ImportMeta & { env?: { BASE_URL?: string } }).env?.BASE_URL ?? "/";
+
 /**
  * Map rasters under `public/maps/`. Use a Disneyland *Paris* guide (PDF export or PNG/JPEG).
  * When you have the official Paris PDF, save it as `disneyland-paris.pdf` (or replace `disneyland.pdf`)
@@ -11,12 +13,12 @@ export const parks: ParkMapDefinition[] = [
   {
     id: "disneyland-park",
     label: "Disneyland Park (Paris)",
-    mapImagePath: "/maps/disneyland-paris-park.jpg"
+    mapImagePath: `${BASE_URL}maps/disneyland-paris-park.jpg`
   },
   {
     id: "walt-disney-studios-park",
     label: "Disney Adventure World (Paris)",
-    mapImagePath: "/maps/disney-adventure-world.png"
+    mapImagePath: `${BASE_URL}maps/disney-adventure-world.png`
   }
 ];
 

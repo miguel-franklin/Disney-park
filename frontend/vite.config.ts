@@ -9,6 +9,7 @@ const parkJsonFileById: Record<string, string> = {
 };
 
 export default defineConfig({
+  base: "/Disney-park/",
   plugins: [
     react(),
     {
