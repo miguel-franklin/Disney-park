@@ -1,0 +1,1532 @@
+[
+  {
+    "id": "disneyland-railroad-main-street-station",
+    "parkId": "disneyland-park",
+    "name": "Disneyland Railroad – Main Street Station",
+    "land": "Main Street, U.S.A.",
+    "description": "A scenic train stop at the park entrance for a grand-circle tour around Disneyland Park.",
+    "x": 52.84,
+    "y": 82.22,
+    "guideMapNumber": 1,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/dWFrqGt6u28/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/dWFrqGt6u28"
+    },
+    "metadata": {
+      "attractionType": "transport",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "kids",
+        "family",
+        "teens"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "transport",
+        "land:main-street-u-s-a",
+        "thrill:low",
+        "any-height",
+        "scenic-transport"
+      ]
+    }
+  },
+  {
+    "id": "horse-drawn-streetcars",
+    "parkId": "disneyland-park",
+    "name": "Horse-Drawn Streetcars",
+    "land": "Main Street, U.S.A.",
+    "description": "Vintage horse-drawn streetcars offering a classic ride along Main Street, U.S.A.",
+    "x": 53.72,
+    "y": 77.63,
+    "guideMapNumber": 2,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/6Vj3_QjuoLk/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/6Vj3_QjuoLk"
+    },
+    "metadata": {
+      "attractionType": "transport",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "toddlers",
+        "kids",
+        "family"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "transport",
+        "land:main-street-u-s-a",
+        "thrill:low",
+        "any-height",
+        "scenic-transport"
+      ]
+    }
+  },
+  {
+    "id": "main-street-vehicles",
+    "parkId": "disneyland-park",
+    "name": "Main Street Vehicles",
+    "land": "Main Street, U.S.A.",
+    "description": "Historic vehicles offering short rides along Main Street, U.S.A.",
+    "x": 50.5,
+    "y": 71.03,
+    "guideMapNumber": 3,
+    "media": {
+      "imageUrls": [
+        "https://media.disneylandparis.com/d4th/en-usd/images/n021111_2022jun01_main-street-vehicles_16-9_tcm1861-157027.jpg?w=1600&f=webp",
+        "https://media.disneylandparis.com/d4th/en-usd/images/2757011_2050jan01_main-street-vehicles_16-9_tcm1861-157062.jpg?w=1600&f=webp",
+        "https://media.disneylandparis.com/d4th/en-usd/images/n018654_2021oct09_mais-street-vehicles_16-9_tcm1861-156927.jpg?w=1600&f=webp"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/DhYCFCV721g"
+    },
+    "metadata": {
+      "attractionType": "transport",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "toddlers",
+        "kids",
+        "family"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "transport",
+        "land:main-street-u-s-a",
+        "thrill:low",
+        "any-height",
+        "scenic-transport"
+      ]
+    }
+  },
+  {
+    "id": "statue-of-liberty-tableau",
+    "parkId": "disneyland-park",
+    "name": "Statue of Liberty Tableau",
+    "land": "Main Street, U.S.A.",
+    "description": "A patriotic historical vignette presentation inspired by the Statue of Liberty.",
+    "x": 47.37,
+    "y": 62.44,
+    "guideMapNumber": 4,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/nVfBGC6zQ0A/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/nVfBGC6zQ0A"
+    },
+    "metadata": {
+      "attractionType": "walkthrough",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "kids",
+        "family",
+        "teens"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "walkthrough",
+        "land:main-street-u-s-a",
+        "thrill:low",
+        "any-height",
+        "self-guided"
+      ]
+    }
+  },
+  {
+    "id": "dapper-dans-hair-cuts",
+    "parkId": "disneyland-park",
+    "name": "Dapper Dan’s Hair Cuts",
+    "land": "Main Street, U.S.A.",
+    "description": "A barbershop-themed Main Street experience inspired by classic turn-of-the-century style.",
+    "x": 49.02,
+    "y": 65.02,
+    "guideMapNumber": 5,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/9mkGGxiSqJQ/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/9mkGGxiSqJQ"
+    },
+    "metadata": {
+      "attractionType": "service",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "kids",
+        "family",
+        "teens"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "service",
+        "land:main-street-u-s-a",
+        "thrill:low",
+        "any-height"
+      ]
+    }
+  },
+  {
+    "id": "phantom-manor",
+    "parkId": "disneyland-park",
+    "name": "Phantom Manor",
+    "land": "Frontierland",
+    "description": "A dark ride through a haunted mansion with Disney storytelling and eerie special effects.",
+    "x": 37.53,
+    "y": 71.33,
+    "guideMapNumber": 6,
+    "media": {
+      "imageUrls": [
+        "https://media.disneylandparis.com/d4th/en-usd/images/n014938_2027jul10_world_phantom-manor_16-9_tcm1861-157081.jpg?w=1600&f=webp",
+        "https://media.disneylandparis.com/d4th/en-usd/images/n015233_2020jul22_phantom-manor_16-9_tcm1861-157066.jpg?w=1600&f=webp"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/QBJLOlXs7NU"
+    },
+    "metadata": {
+      "attractionType": "ride",
+      "thrillLevel": "moderate",
+      "targetAudience": [
+        "kids",
+        "family",
+        "teens"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": true,
+      "tags": [
+        "ride",
+        "land:frontierland",
+        "thrill:moderate",
+        "any-height"
+      ]
+    }
+  },
+  {
+    "id": "thunder-mesa-riverboat-landing",
+    "parkId": "disneyland-park",
+    "name": "Thunder Mesa Riverboat Landing",
+    "land": "Frontierland",
+    "description": "A riverboat cruise around Frontierland with scenic views of Big Thunder Mountain and the wilderness.",
+    "x": 38.73,
+    "y": 65.59,
+    "guideMapNumber": 7,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/2CIZZw9a0og/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/2CIZZw9a0og"
+    },
+    "metadata": {
+      "attractionType": "transport",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "toddlers",
+        "kids",
+        "family"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "transport",
+        "land:frontierland",
+        "thrill:low",
+        "any-height",
+        "scenic-transport"
+      ]
+    }
+  },
+  {
+    "id": "rustler-roundup-shootin-gallery",
+    "parkId": "disneyland-park",
+    "name": "Rustler Roundup Shootin’ Gallery",
+    "land": "Frontierland",
+    "description": "An interactive shooting gallery challenge with Wild West targets and effects.",
+    "x": 35.25,
+    "y": 53.31,
+    "guideMapNumber": 8,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/PxyLJI0Uwzc/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/PxyLJI0Uwzc"
+    },
+    "metadata": {
+      "attractionType": "ride",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "kids",
+        "family",
+        "teens"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "ride",
+        "land:frontierland",
+        "thrill:low",
+        "any-height"
+      ]
+    }
+  },
+  {
+    "id": "big-thunder-mountain",
+    "parkId": "disneyland-park",
+    "name": "Big Thunder Mountain",
+    "land": "Frontierland",
+    "description": "A high-speed mine train coaster racing through caves and canyons around the Wild West mountain.",
+    "x": 29.65,
+    "y": 50.4,
+    "guideMapNumber": 9,
+    "media": {
+      "imageUrls": [
+        "https://media.disneylandparis.com/d4th/en-usd/images/n017783_2050jan01_big-thunder-mountain-detail_16-9_tcm1861-159570.jpg?w=1600&f=webp",
+        "https://media.disneylandparis.com/d4th/en-usd/images/n017795_2050jan01_big-thunder-mountain-detail_16-9_tcm1861-159435.jpg?w=1600&f=webp",
+        "https://media.disneylandparis.com/d4th/en-usd/images/n017798_2050jan01_big-thunder-mountain_16-9_tcm1861-159546.jpg?w=1600&f=webp"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/g0C7nl4uCFQ"
+    },
+    "metadata": {
+      "attractionType": "ride",
+      "thrillLevel": "high",
+      "targetAudience": [
+        "teens",
+        "adults"
+      ],
+      "minHeightCm": 102,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "ride",
+        "land:frontierland",
+        "thrill:high",
+        "height-restriction"
+      ]
+    }
+  },
+  {
+    "id": "pocahontas-indian-village",
+    "parkId": "disneyland-park",
+    "name": "Pocahontas Indian VIllage",
+    "land": "Frontierland",
+    "description": "A themed outdoor play area for young adventurers inspired by Pocahontas.",
+    "x": 19.56,
+    "y": 57.75,
+    "guideMapNumber": 10,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/yBs2BHIi4YM/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/yBs2BHIi4YM"
+    },
+    "metadata": {
+      "attractionType": "play-area",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "toddlers",
+        "kids",
+        "family"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "play-area",
+        "land:frontierland",
+        "thrill:low",
+        "any-height"
+      ]
+    }
+  },
+  {
+    "id": "the-chaparral-theater",
+    "parkId": "disneyland-park",
+    "name": "The Chaparral Theater",
+    "land": "Frontierland",
+    "description": "An open-air theater in Frontierland hosting seasonal entertainment and character performances.",
+    "x": 9.19,
+    "y": 52.55,
+    "guideMapNumber": 11,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/66ztXTWLYiI/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/66ztXTWLYiI"
+    },
+    "metadata": {
+      "attractionType": "show",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "kids",
+        "family"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": true,
+      "tags": [
+        "show",
+        "land:frontierland",
+        "thrill:low",
+        "any-height",
+        "live-entertainment"
+      ]
+    }
+  },
+  {
+    "id": "disneyland-railroad-frontierland-depot",
+    "parkId": "disneyland-park",
+    "name": "Disneyland Railroad – Frontierland Depot",
+    "land": "Frontierland",
+    "description": "Frontierland station for the Disneyland Railroad grand-circle train journey.",
+    "x": 8.06,
+    "y": 46.91,
+    "guideMapNumber": 12,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/dWFrqGt6u28/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/dWFrqGt6u28"
+    },
+    "metadata": {
+      "attractionType": "transport",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "kids",
+        "family",
+        "teens"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "transport",
+        "land:frontierland",
+        "thrill:low",
+        "any-height",
+        "scenic-transport"
+      ]
+    }
+  },
+  {
+    "id": "la-cabane-des-robinson",
+    "parkId": "disneyland-park",
+    "name": "La Cabane des Robinson",
+    "land": "Adventureland",
+    "description": "A walk-through treehouse adventure inspired by the Swiss Family Robinson story.",
+    "x": 31.51,
+    "y": 32.05,
+    "guideMapNumber": 13,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/PIdCq0aH3tw/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/PIdCq0aH3tw"
+    },
+    "metadata": {
+      "attractionType": "walkthrough",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "kids",
+        "family",
+        "teens"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "walkthrough",
+        "land:adventureland",
+        "thrill:low",
+        "any-height",
+        "self-guided"
+      ]
+    }
+  },
+  {
+    "id": "pirates-beach",
+    "parkId": "disneyland-park",
+    "name": "Pirates Beach",
+    "land": "Adventureland",
+    "description": "A pirate-themed adventure play area with climbing and exploration activities.",
+    "x": 37.17,
+    "y": 30.2,
+    "guideMapNumber": 14,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/y2E31lOouG4/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/y2E31lOouG4"
+    },
+    "metadata": {
+      "attractionType": "play-area",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "toddlers",
+        "kids",
+        "family"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "play-area",
+        "land:adventureland",
+        "thrill:low",
+        "any-height"
+      ]
+    }
+  },
+  {
+    "id": "le-passage-enchante-daladdin",
+    "parkId": "disneyland-park",
+    "name": "Le Passage Enchante d’Aladdin",
+    "land": "Adventureland",
+    "description": "A walk-through attraction featuring miniature scenes from Disney’s Aladdin.",
+    "x": 41.03,
+    "y": 40.08,
+    "guideMapNumber": 15,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/D3ZEe2JdTcY/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/D3ZEe2JdTcY"
+    },
+    "metadata": {
+      "attractionType": "walkthrough",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "kids",
+        "family",
+        "teens"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "walkthrough",
+        "land:adventureland",
+        "thrill:low",
+        "any-height",
+        "self-guided"
+      ]
+    }
+  },
+  {
+    "id": "indiana-jones",
+    "parkId": "disneyland-park",
+    "name": "Indiana Jones and the Temple of Peril",
+    "land": "Adventureland",
+    "description": "A looping outdoor coaster themed around jungle ruins and Indiana Jones adventures.",
+    "x": 22.89,
+    "y": 23.98,
+    "guideMapNumber": 16,
+    "media": {
+      "imageUrls": [
+        "https://media.disneylandparis.com/d4th/en-usd/images/n017906_2050jan01_world_indiana-jones-et-le-temple-du-peril_16-9_tcm1861-159553.jpg?w=1600&f=webp",
+        "https://media.disneylandparis.com/d4th/en-usd/images/n017909_2050jan01_indiana-jones-et-le-temple-du-peril_16-9_tcm1861-159359.jpg?w=1600&f=webp"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/J7SGecf7NhU"
+    },
+    "metadata": {
+      "attractionType": "ride",
+      "thrillLevel": "high",
+      "targetAudience": [
+        "teens",
+        "adults"
+      ],
+      "minHeightCm": 140,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "ride",
+        "land:adventureland",
+        "thrill:high",
+        "height-restriction"
+      ]
+    }
+  },
+  {
+    "id": "adventure-isle",
+    "parkId": "disneyland-park",
+    "name": "Adventure Isle",
+    "land": "Adventureland",
+    "description": "A network of caves, bridges and pathways to explore pirate hideouts and mystery-filled islands.",
+    "x": 31.62,
+    "y": 27.47,
+    "guideMapNumber": 17,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/obRvK3K23Us/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/obRvK3K23Us"
+    },
+    "metadata": {
+      "attractionType": "walkthrough",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "kids",
+        "family",
+        "teens"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "walkthrough",
+        "land:adventureland",
+        "thrill:low",
+        "any-height",
+        "self-guided"
+      ]
+    }
+  },
+  {
+    "id": "pirates-of-the-caribbean",
+    "parkId": "disneyland-park",
+    "name": "Pirates of the Caribbean",
+    "land": "Adventureland",
+    "description": "A classic boat ride through pirate towns, cannon battles, and Caribbean scenes.",
+    "x": 39.92,
+    "y": 18.61,
+    "guideMapNumber": 18,
+    "media": {
+      "imageUrls": [
+        "https://media.disneylandparis.com/d4th/en-usd/images/n014915_2027jul10_world_panoramique-pirates-of-the-caribbean_16-9_tcm1861-162428.jpg?w=1600&f=webp",
+        "https://media.disneylandparis.com/d4th/en-usd/images/n013561_2019jul11_pirates-of-the-caribbean_16-9_tcm1861-157050.jpg?w=1600&f=webp"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/y2E31lOouG4"
+    },
+    "metadata": {
+      "attractionType": "ride",
+      "thrillLevel": "moderate",
+      "targetAudience": [
+        "kids",
+        "family",
+        "teens"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": true,
+      "tags": [
+        "ride",
+        "land:adventureland",
+        "thrill:moderate",
+        "any-height"
+      ]
+    }
+  },
+  {
+    "id": "sleeping-beauty-castle",
+    "parkId": "disneyland-park",
+    "name": "Sleeping Beauty Castle",
+    "land": "Fantasyland",
+    "description": "The iconic fairytale castle at the heart of Disneyland Park, with walk-through areas and story details.",
+    "x": 52.89,
+    "y": 35.52,
+    "guideMapNumber": 19,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/h756rN7nqFM/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/h756rN7nqFM"
+    },
+    "metadata": {
+      "attractionType": "walkthrough",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "kids",
+        "family",
+        "teens"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "walkthrough",
+        "land:fantasyland",
+        "thrill:low",
+        "any-height",
+        "self-guided"
+      ]
+    }
+  },
+  {
+    "id": "dragon-lair",
+    "parkId": "disneyland-park",
+    "name": "La Taniere du Dragon",
+    "land": "Fantasyland",
+    "description": "A walk-through cave beneath the castle featuring an animatronic dragon.",
+    "x": 50.81,
+    "y": 38.28,
+    "guideMapNumber": 20,
+    "media": {
+      "imageUrls": [
+        "https://media.disneylandparis.com/d4th/en-usd/images/n012062_2028sep16_la-taniere-du-dragon_16-9_tcm1861-157414.jpg?w=1600&f=webp",
+        "https://media.disneylandparis.com/d4th/en-usd/images/n012060_2019apr01_la-taniere-du-dragon_16-9_tcm1861-157328.jpg?w=1600&f=webp"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/m2HiyJ8gJQ4"
+    },
+    "metadata": {
+      "attractionType": "walkthrough",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "kids",
+        "family",
+        "teens"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "walkthrough",
+        "land:fantasyland",
+        "thrill:low",
+        "any-height",
+        "self-guided"
+      ]
+    }
+  },
+  {
+    "id": "snow-white",
+    "parkId": "disneyland-park",
+    "name": "Snow White and the Seven Dwarfs",
+    "land": "Fantasyland",
+    "description": "A classic storybook dark ride inspired by Snow White and the Seven Dwarfs.",
+    "x": 50.17,
+    "y": 29.88,
+    "guideMapNumber": 21,
+    "media": {
+      "imageUrls": [
+        "https://media.disneylandparis.com/d4th/en-usd/images/n014348_2020feb01_blanche-neige-et-les-sept-nains-ride_16-9_tcm1861-157364.jpg?w=1600&f=webp",
+        "https://media.disneylandparis.com/d4th/en-usd/images/n015242_2020jul22_blanche-neige-et-les-sept-nains-ride_16-9_tcm1861-157285.jpg?w=1600&f=webp"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/ILYVuhLL3yg"
+    },
+    "metadata": {
+      "attractionType": "ride",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "kids",
+        "family",
+        "teens"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": true,
+      "tags": [
+        "ride",
+        "land:fantasyland",
+        "thrill:low",
+        "any-height"
+      ]
+    }
+  },
+  {
+    "id": "pinocchio",
+    "parkId": "disneyland-park",
+    "name": "Pinocchio’s Fantastic Journey",
+    "land": "Fantasyland",
+    "description": "A family dark ride retelling the adventures of Pinocchio.",
+    "x": 50.75,
+    "y": 26.02,
+    "guideMapNumber": 22,
+    "media": {
+      "imageUrls": [
+        "https://media.disneylandparis.com/d4th/en-usd/images/n014349_2027jan30_les-voyages-de-pinocchio_16-9_tcm1861-157397.jpg?w=1600&f=webp",
+        "https://media.disneylandparis.com/d4th/en-usd/images/n015231_2027jul21_world_les%20voyages-de-pinocchio-attraction_16-9_tcm1861-157359.jpg?w=1600&f=webp"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/uWrhWMuOLTQ"
+    },
+    "metadata": {
+      "attractionType": "ride",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "kids",
+        "family",
+        "teens"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": true,
+      "tags": [
+        "ride",
+        "land:fantasyland",
+        "thrill:low",
+        "any-height"
+      ]
+    }
+  },
+  {
+    "id": "lancelots-carousel",
+    "parkId": "disneyland-park",
+    "name": "Lancelot’s Carousel",
+    "land": "Fantasyland",
+    "description": "A beautifully themed two-level carousel beside the castle for classic family fun.",
+    "x": 54.56,
+    "y": 23.54,
+    "guideMapNumber": 23,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/9oPiFTTMQQs/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/9oPiFTTMQQs"
+    },
+    "metadata": {
+      "attractionType": "ride",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "toddlers",
+        "kids",
+        "family"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "ride",
+        "land:fantasyland",
+        "thrill:low",
+        "any-height"
+      ]
+    }
+  },
+  {
+    "id": "peter-pan-flight",
+    "parkId": "disneyland-park",
+    "name": "Peter Pan’s Flight",
+    "land": "Fantasyland",
+    "description": "A suspended dark ride flying over scenes from Never Land.",
+    "x": 43.75,
+    "y": 18.67,
+    "guideMapNumber": 24,
+    "media": {
+      "imageUrls": [
+        "https://media.disneylandparis.com/d4th/en-usd/images/n015221_2027jul21_world_peter-pan-flight-attraction_16-9_tcm1861-268437.jpg?w=1600&f=webp",
+        "https://media.disneylandparis.com/d4th/en-usd/images/n015218_2020jul22_peter-pan-flight_16-9_tcm1861-156939.jpg?w=1600&f=webp"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/5AU7_xSw1dg"
+    },
+    "metadata": {
+      "attractionType": "ride",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "kids",
+        "family",
+        "teens"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": true,
+      "tags": [
+        "ride",
+        "land:fantasyland",
+        "thrill:low",
+        "any-height"
+      ]
+    }
+  },
+  {
+    "id": "disneyland-railroad-fantasyland-station",
+    "parkId": "disneyland-park",
+    "name": "Disneyland Railroad – Fantasyland Station",
+    "land": "Fantasyland",
+    "description": "Fantasyland station for the Disneyland Railroad grand-circle train route.",
+    "x": 52.64,
+    "y": 11.9,
+    "guideMapNumber": 25,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/dWFrqGt6u28/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/dWFrqGt6u28"
+    },
+    "metadata": {
+      "attractionType": "transport",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "kids",
+        "family",
+        "teens"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "transport",
+        "land:fantasyland",
+        "thrill:low",
+        "any-height",
+        "scenic-transport"
+      ]
+    }
+  },
+  {
+    "id": "meet-mickey-mouse",
+    "parkId": "disneyland-park",
+    "name": "Meet Mickey Mouse",
+    "land": "Fantasyland",
+    "description": "An indoor character greeting where guests can meet Mickey and take photos.",
+    "x": 50.53,
+    "y": 13.03,
+    "guideMapNumber": 26,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/O54xt6KVQB0/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/O54xt6KVQB0"
+    },
+    "metadata": {
+      "attractionType": "character",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "kids",
+        "family"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": true,
+      "tags": [
+        "character",
+        "land:fantasyland",
+        "thrill:low",
+        "any-height",
+        "meet-and-greet"
+      ]
+    }
+  },
+  {
+    "id": "dumbo",
+    "parkId": "disneyland-park",
+    "name": "Dumbo the Flying Elephant",
+    "land": "Fantasyland",
+    "description": "A classic aerial spinner where guests control how high they fly.",
+    "x": 49.92,
+    "y": 18.6,
+    "guideMapNumber": 27,
+    "media": {
+      "imageUrls": [
+        "https://media.disneylandparis.com/d4th/en-usd/images/n015391_2018nov01_dumbo_16-9_tcm1861-159901.jpg?w=1600&f=webp"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/RqJQ6RNUcVA"
+    },
+    "metadata": {
+      "attractionType": "ride",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "toddlers",
+        "kids",
+        "family"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "ride",
+        "land:fantasyland",
+        "thrill:low",
+        "any-height"
+      ]
+    }
+  },
+  {
+    "id": "alice-curious-labyrinth",
+    "parkId": "disneyland-park",
+    "name": "Alice’s Curious Labyrinth",
+    "land": "Fantasyland",
+    "description": "A walk-through maze with whimsical Alice in Wonderland theming and castle views.",
+    "x": 55.97,
+    "y": 15.25,
+    "guideMapNumber": 28,
+    "media": {
+      "imageUrls": [
+        "https://media.disneylandparis.com/d4th/en-usd/images/n013217_2019jul30_alices-curious-labyrinth_16-9_tcm1861-157418.jpg?w=1600&f=webp"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/ad-eKijGPCQ"
+    },
+    "metadata": {
+      "attractionType": "walkthrough",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "kids",
+        "family",
+        "teens"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "walkthrough",
+        "land:fantasyland",
+        "thrill:low",
+        "any-height",
+        "self-guided"
+      ]
+    }
+  },
+  {
+    "id": "mad-hatters-tea-cups",
+    "parkId": "disneyland-park",
+    "name": "Mad Hatter’s Tea Cups",
+    "land": "Fantasyland",
+    "description": "A spinning tea cup ride inspired by Alice in Wonderland.",
+    "x": 58.75,
+    "y": 19.51,
+    "guideMapNumber": 29,
+    "media": {
+      "imageUrls": [
+        "https://media.disneylandparis.com/d4th/en-usd/images/n017930_2050jan01_mad-hatters-tea-cups_16-9_tcm1861-159891.jpg?w=1600&f=webp",
+        "https://media.disneylandparis.com/d4th/en-usd/images/n017931_2050jan01_mad-hatters-tea-cups_16-9_tcm1861-159886.jpg?w=1600&f=webp",
+        "https://media.disneylandparis.com/d4th/en-usd/images/n017934_2050jan01_mad-hatters-tea-cups_16-9_tcm1861-159609.jpg?w=1600&f=webp"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/AN1uGeVlSGA"
+    },
+    "metadata": {
+      "attractionType": "ride",
+      "thrillLevel": "moderate",
+      "targetAudience": [
+        "kids",
+        "family",
+        "teens"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "ride",
+        "land:fantasyland",
+        "thrill:moderate",
+        "any-height"
+      ]
+    }
+  },
+  {
+    "id": "casey-jr-circus-train",
+    "parkId": "disneyland-park",
+    "name": "Casey Jr",
+    "land": "Fantasyland",
+    "description": "A family train ride through miniature scenes inspired by Disney stories.",
+    "x": 64.88,
+    "y": 9.55,
+    "guideMapNumber": 30,
+    "media": {
+      "imageUrls": [
+        "https://media.disneylandparis.com/d4th/en-usd/images/n012750_2019may15_casey-Jr-le-petit-train-du-cirque_16-9_tcm1861-157138.jpg?w=1600&f=webp",
+        "https://media.disneylandparis.com/d4th/en-usd/images/n012765_2019may15_casey-jr-le-petit-train-du-cirque_16-9_tcm1861-158938.jpg?w=1600&f=webp"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/HLfmapsJCWQ"
+    },
+    "metadata": {
+      "attractionType": "ride",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "toddlers",
+        "kids",
+        "family"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "ride",
+        "land:fantasyland",
+        "thrill:low",
+        "any-height"
+      ]
+    }
+  },
+  {
+    "id": "storybook-land-canal",
+    "parkId": "disneyland-park",
+    "name": "Le Pays des Contes de Fees",
+    "land": "Fantasyland",
+    "description": "A relaxing boat tour past miniature storybook sets from classic Disney films.",
+    "x": 70.94,
+    "y": 8.62,
+    "guideMapNumber": 31,
+    "media": {
+      "imageUrls": [
+        "https://media.disneylandparis.com/d4th/en-usd/images/n012762_2019may15_le-pays-des-contes-de-fees_16-9_tcm1861-157000.jpg?w=1600&f=webp",
+        "https://media.disneylandparis.com/d4th/en-usd/images/n012757_2019may15_le-pays-des-contes-de-fees_16-9_tcm1861-157162.jpg?w=1600&f=webp",
+        "https://media.disneylandparis.com/d4th/en-usd/images/n012759_2019may15_le-pays-des-contes-de-fees_16-9_tcm1861-157026.jpg?w=1600&f=webp"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/jehqIVi8YpI"
+    },
+    "metadata": {
+      "attractionType": "ride",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "toddlers",
+        "kids",
+        "family"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "ride",
+        "land:fantasyland",
+        "thrill:low",
+        "any-height"
+      ]
+    }
+  },
+  {
+    "id": "its-a-small-world",
+    "parkId": "disneyland-park",
+    "name": "It’s a Small World",
+    "land": "Fantasyland",
+    "description": "A gentle boat ride celebrating world cultures with iconic dolls and music.",
+    "x": 71.03,
+    "y": 23.33,
+    "guideMapNumber": 32,
+    "media": {
+      "imageUrls": [
+        "https://media.disneylandparis.com/d4th/en-usd/images/n027110_2030apr16_world_its-a-small-world-attraction-facade-clock_16-9_tcm1861-256996.jpg?w=1600&f=webp",
+        "https://media.disneylandparis.com/d4th/en-usd/images/n024770_2030jul07_world_it-s-a-small-world-attraction-facade-entrance_16-9_tcm1861-256995.jpg?w=1600&f=webp",
+        "https://media.disneylandparis.com/d4th/en-usd/images/n016335_2_2028jan27_world_it-a-small-world-attraction_5-2_frame-attraction_tcm1861-258579.jpg?w=1600&f=webp"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/xr191FXtOV0"
+    },
+    "metadata": {
+      "attractionType": "ride",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "toddlers",
+        "kids",
+        "family"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": true,
+      "tags": [
+        "ride",
+        "land:fantasyland",
+        "thrill:low",
+        "any-height"
+      ]
+    }
+  },
+  {
+    "id": "princess-pavillion",
+    "parkId": "disneyland-park",
+    "name": "Princess Pavillion",
+    "land": "Fantasyland",
+    "description": "A royal meet-and-greet location where guests can meet Disney Princesses.",
+    "x": 67.47,
+    "y": 19.87,
+    "guideMapNumber": 33,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/YVJwvc4dFjE/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/YVJwvc4dFjE"
+    },
+    "metadata": {
+      "attractionType": "character",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "kids",
+        "family"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": true,
+      "tags": [
+        "character",
+        "land:fantasyland",
+        "thrill:low",
+        "any-height",
+        "meet-and-greet"
+      ]
+    }
+  },
+  {
+    "id": "royal-castle-stage",
+    "parkId": "disneyland-park",
+    "name": "Royal Castle Stage",
+    "land": "Fantasyland",
+    "description": "An outdoor stage near the castle featuring daytime entertainment and special performances.",
+    "x": 57.94,
+    "y": 38.43,
+    "guideMapNumber": 34,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/FLdWJ80CGuU/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/FLdWJ80CGuU"
+    },
+    "metadata": {
+      "attractionType": "show",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "kids",
+        "family"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "show",
+        "land:fantasyland",
+        "thrill:low",
+        "any-height",
+        "live-entertainment"
+      ]
+    }
+  },
+  {
+    "id": "buzz-lightyear-laser-blast",
+    "parkId": "disneyland-park",
+    "name": "Buzz Lightyear Laser Blast",
+    "land": "Discoveryland",
+    "description": "An interactive dark ride where guests score points by blasting targets with laser cannons.",
+    "x": 69.14,
+    "y": 44.07,
+    "guideMapNumber": 35,
+    "media": {
+      "imageUrls": [
+        "https://media.disneylandparis.com/d4th/en-usd/images/n035463_2050dec31_world_buzz-lightyear-laser-blast-attraction-front-blue-version_16-9_tcm1861-157036.jpg?w=1600&f=webp",
+        "https://media.disneylandparis.com/d4th/en-usd/images/n017809_2050jan01_buzz-lightyear-lazer-blast_16-9_tcm1861-159517.jpg?w=1600&f=webp",
+        "https://media.disneylandparis.com/d4th/en-usd/images/n017812_2050jan01_buzz-lightyear-lazer-blast_16-9_tcm1861-159383.jpg?w=1600&f=webp"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/rJ0h4OpblzY"
+    },
+    "metadata": {
+      "attractionType": "ride",
+      "thrillLevel": "moderate",
+      "targetAudience": [
+        "kids",
+        "family",
+        "teens"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": true,
+      "tags": [
+        "ride",
+        "land:discoveryland",
+        "thrill:moderate",
+        "any-height"
+      ]
+    }
+  },
+  {
+    "id": "orbitron",
+    "parkId": "disneyland-park",
+    "name": "Orbitron",
+    "land": "Discoveryland",
+    "description": "A retro-futuristic spinner ride with rockets circling high above Discoveryland.",
+    "x": 73.64,
+    "y": 50.91,
+    "guideMapNumber": 36,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/pFdRtnsuLm4/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/pFdRtnsuLm4"
+    },
+    "metadata": {
+      "attractionType": "ride",
+      "thrillLevel": "moderate",
+      "targetAudience": [
+        "kids",
+        "family",
+        "teens"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "ride",
+        "land:discoveryland",
+        "thrill:moderate",
+        "any-height"
+      ]
+    }
+  },
+  {
+    "id": "videopolis-theatre",
+    "parkId": "disneyland-park",
+    "name": "Videopolis Theatre",
+    "land": "Discoveryland",
+    "description": "A large indoor venue hosting stage entertainment and special events in Discoveryland.",
+    "x": 74.8,
+    "y": 43,
+    "guideMapNumber": 37,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/WEPrZR5YZ30/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/WEPrZR5YZ30"
+    },
+    "metadata": {
+      "attractionType": "show",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "kids",
+        "family"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": true,
+      "tags": [
+        "show",
+        "land:discoveryland",
+        "thrill:low",
+        "any-height",
+        "live-entertainment"
+      ]
+    }
+  },
+  {
+    "id": "disneyland-railroad-discoveryland-station",
+    "parkId": "disneyland-park",
+    "name": "Disneyland Railroad – Dicoveryland Station",
+    "land": "Discoveryland",
+    "description": "Discoveryland station for the Disneyland Railroad grand-circle park tour.",
+    "x": 86.03,
+    "y": 37.48,
+    "guideMapNumber": 38,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/K5Y7817vAb4/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/K5Y7817vAb4"
+    },
+    "metadata": {
+      "attractionType": "transport",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "kids",
+        "family",
+        "teens"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "transport",
+        "land:discoveryland",
+        "thrill:low",
+        "any-height",
+        "scenic-transport"
+      ]
+    }
+  },
+  {
+    "id": "star-tours",
+    "parkId": "disneyland-park",
+    "name": "Star Tours: The Adventures Continue",
+    "land": "Discoveryland",
+    "description": "A motion simulator journey through Star Wars worlds with multiple randomized sequences.",
+    "x": 85.75,
+    "y": 40.21,
+    "guideMapNumber": 39,
+    "media": {
+      "imageUrls": [
+        "https://media.disneylandparis.com/d4th/en-usd/images/stitch_tcm1861-159801.jpg?w=1600&f=webp"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/zaJ-OJsRJb4"
+    },
+    "metadata": {
+      "attractionType": "ride",
+      "thrillLevel": "moderate",
+      "targetAudience": [
+        "kids",
+        "family",
+        "teens"
+      ],
+      "minHeightCm": 102,
+      "minHeightSoloCm": null,
+      "indoor": true,
+      "tags": [
+        "ride",
+        "land:discoveryland",
+        "thrill:moderate",
+        "height-restriction"
+      ]
+    }
+  },
+  {
+    "id": "starport",
+    "parkId": "disneyland-park",
+    "name": "Starport",
+    "land": "Discoveryland",
+    "description": "A Star Wars themed character encounter destination in Discoveryland.",
+    "x": 85.08,
+    "y": 44.47,
+    "guideMapNumber": 40,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/zaJ-OJsRJb4/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/zaJ-OJsRJb4"
+    },
+    "metadata": {
+      "attractionType": "character",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "kids",
+        "family"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": true,
+      "tags": [
+        "character",
+        "land:discoveryland",
+        "thrill:low",
+        "any-height",
+        "meet-and-greet"
+      ]
+    }
+  },
+  {
+    "id": "discoveryland-theatre",
+    "parkId": "disneyland-park",
+    "name": "Discoveryland Theatre",
+    "land": "Discoveryland",
+    "description": "An indoor Discoveryland theater venue for films and seasonal shows.",
+    "x": 90.5,
+    "y": 47.5,
+    "guideMapNumber": 41,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/EkoMiCat1Qk/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/EkoMiCat1Qk"
+    },
+    "metadata": {
+      "attractionType": "show",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "kids",
+        "family"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": true,
+      "tags": [
+        "show",
+        "land:discoveryland",
+        "thrill:low",
+        "any-height",
+        "live-entertainment"
+      ]
+    }
+  },
+  {
+    "id": "les-mysteres-du-nautilus",
+    "parkId": "disneyland-park",
+    "name": "Les Mysteres du Nautilus",
+    "land": "Discoveryland",
+    "description": "A walk-through journey inside Captain Nemo’s submarine from Twenty Thousand Leagues Under the Sea.",
+    "x": 76.83,
+    "y": 61.06,
+    "guideMapNumber": 42,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/82lPKJxH3JM/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/82lPKJxH3JM"
+    },
+    "metadata": {
+      "attractionType": "walkthrough",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "kids",
+        "family",
+        "teens"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": true,
+      "tags": [
+        "walkthrough",
+        "land:discoveryland",
+        "thrill:low",
+        "any-height",
+        "self-guided"
+      ]
+    }
+  },
+  {
+    "id": "hyperspace-mountain",
+    "parkId": "disneyland-park",
+    "name": "Star Wars Hyperspace Mountain",
+    "land": "Discoveryland",
+    "description": "A launch coaster with inversions and Star Wars battle effects in near darkness.",
+    "x": 77.81,
+    "y": 54.84,
+    "guideMapNumber": 43,
+    "media": {
+      "imageUrls": [
+        "https://media.disneylandparis.com/d4th/en-usd/images/stitch_tcm1861-159801.jpg?w=1600&f=webp"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/As_rN84Ivmk"
+    },
+    "metadata": {
+      "attractionType": "ride",
+      "thrillLevel": "high",
+      "targetAudience": [
+        "teens",
+        "adults"
+      ],
+      "minHeightCm": 120,
+      "minHeightSoloCm": null,
+      "indoor": true,
+      "tags": [
+        "ride",
+        "land:discoveryland",
+        "thrill:high",
+        "height-restriction"
+      ]
+    }
+  },
+  {
+    "id": "autopia",
+    "parkId": "disneyland-park",
+    "name": "Autopia",
+    "land": "Discoveryland",
+    "description": "A classic driving attraction where guests steer vintage-style cars along a guided road.",
+    "x": 71.66,
+    "y": 59.72,
+    "guideMapNumber": 44,
+    "media": {
+      "imageUrls": [
+        "https://media.disneylandparis.com/d4th/en-usd/images/n021038_2022jun03_autopia_16-9_tcm1861-157219.jpg?w=1600&f=webp",
+        "https://media.disneylandparis.com/d4th/en-usd/images/n021042_2022jun03_autopia_16-9_tcm1861-157422.jpg?w=1600&f=webp",
+        "https://media.disneylandparis.com/d4th/en-usd/images/n009840_2017jul01_autopia_16-9_tcm1861-157416.jpg?w=1600&f=webp"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/WZUNQWvG9k0"
+    },
+    "metadata": {
+      "attractionType": "ride",
+      "thrillLevel": "moderate",
+      "targetAudience": [
+        "kids",
+        "family",
+        "teens"
+      ],
+      "minHeightCm": 81,
+      "minHeightSoloCm": 132,
+      "indoor": false,
+      "tags": [
+        "ride",
+        "land:discoveryland",
+        "thrill:moderate",
+        "height-restriction"
+      ]
+    }
+  }
+]

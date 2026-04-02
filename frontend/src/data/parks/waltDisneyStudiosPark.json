@@ -1,0 +1,457 @@
+[
+  {
+    "id": "ratatouille",
+    "parkId": "walt-disney-studios-park",
+    "name": "Ratatouille : L'Aventure Totalement Toquée de Rémy",
+    "land": "Worlds of Pixar",
+    "description": "A trackless dark ride where guests shrink to Remy size for a fast-paced 4D chase through Gusteau's restaurant.",
+    "x": 78.01,
+    "y": 30.39,
+    "guideMapNumber": 1,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/N8BC51iZcj8/maxresdefault.jpg",
+        "https://i.ytimg.com/vi/N8BC51iZcj8/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/N8BC51iZcj8"
+    },
+    "metadata": {
+      "attractionType": "ride",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "toddlers",
+        "kids",
+        "family"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": true,
+      "tags": [
+        "ride",
+        "land:worlds-of-pixar",
+        "thrill:low",
+        "any-height"
+      ]
+    }
+  },
+  {
+    "id": "spider-man-web-adventure",
+    "parkId": "walt-disney-studios-park",
+    "name": "Spider-Man W.E.B. Adventure",
+    "land": "Avengers Campus",
+    "description": "An interactive 3D attraction where riders sling virtual webs to stop Spider-Bots with motion-tracking gestures.",
+    "x": 32.71,
+    "y": 35.52,
+    "guideMapNumber": 2,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/TRSVLf-8FIo/maxresdefault.jpg",
+        "https://i.ytimg.com/vi/TRSVLf-8FIo/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/TRSVLf-8FIo"
+    },
+    "metadata": {
+      "attractionType": "ride",
+      "thrillLevel": "moderate",
+      "targetAudience": [
+        "kids",
+        "family",
+        "teens"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": true,
+      "tags": [
+        "ride",
+        "land:avengers-campus",
+        "thrill:moderate",
+        "any-height"
+      ]
+    }
+  },
+  {
+    "id": "avengers-assemble-flight-force",
+    "parkId": "walt-disney-studios-park",
+    "name": "Avengers Assemble: Flight Force",
+    "land": "Avengers Campus",
+    "description": "A high-intensity launch coaster featuring Marvel mission theming, inversions, and synchronized effects.",
+    "x": 12.58,
+    "y": 25.58,
+    "guideMapNumber": 3,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/k1ePL2xkHUA/maxresdefault.jpg",
+        "https://i.ytimg.com/vi/k1ePL2xkHUA/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/k1ePL2xkHUA"
+    },
+    "metadata": {
+      "attractionType": "ride",
+      "thrillLevel": "high",
+      "targetAudience": [
+        "teens",
+        "adults"
+      ],
+      "minHeightCm": 120,
+      "minHeightSoloCm": null,
+      "indoor": true,
+      "tags": [
+        "ride",
+        "land:avengers-campus",
+        "thrill:high",
+        "height-restriction"
+      ]
+    }
+  },
+  {
+    "id": "tower-of-terror",
+    "parkId": "walt-disney-studios-park",
+    "name": "The Twilight Zone Tower of Terror™",
+    "land": "World Premiere Plaza",
+    "description": "A haunted hotel drop-tower experience with eerie storytelling, random drop sequences, and dramatic effects.",
+    "x": 42.78,
+    "y": 41.93,
+    "guideMapNumber": 4,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/6PTl7wULWV4/maxresdefault.jpg",
+        "https://i.ytimg.com/vi/6PTl7wULWV4/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/6PTl7wULWV4"
+    },
+    "metadata": {
+      "attractionType": "ride",
+      "thrillLevel": "high",
+      "targetAudience": [
+        "teens",
+        "adults"
+      ],
+      "minHeightCm": 102,
+      "minHeightSoloCm": null,
+      "indoor": true,
+      "tags": [
+        "ride",
+        "land:world-premiere-plaza",
+        "thrill:high",
+        "height-restriction"
+      ]
+    }
+  },
+  {
+    "id": "cars-road-trip",
+    "parkId": "walt-disney-studios-park",
+    "name": "Cars ROAD TRIP",
+    "land": "Worlds of Pixar",
+    "description": "A tram-style adventure through movie-inspired sets including high-energy effects and Cars-themed roadside scenes.",
+    "x": 72,
+    "y": 15.2,
+    "guideMapNumber": 5,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/oz34gCqQYVE/maxresdefault.jpg",
+        "https://i.ytimg.com/vi/oz34gCqQYVE/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/oz34gCqQYVE"
+    },
+    "metadata": {
+      "attractionType": "ride",
+      "thrillLevel": "moderate",
+      "targetAudience": [
+        "toddlers",
+        "kids",
+        "family"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "ride",
+        "land:worlds-of-pixar",
+        "thrill:moderate",
+        "any-height"
+      ]
+    }
+  },
+  {
+    "id": "rc-racer",
+    "parkId": "walt-disney-studios-park",
+    "name": "RC Racer",
+    "land": "Worlds of Pixar",
+    "description": "A U-shaped half-pipe ride vehicle that repeatedly surges forward and backward to near-vertical heights.",
+    "x": 63.8,
+    "y": 18.3,
+    "guideMapNumber": 6,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/aA0eM5s6wG0/maxresdefault.jpg",
+        "https://i.ytimg.com/vi/aA0eM5s6wG0/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/aA0eM5s6wG0"
+    },
+    "metadata": {
+      "attractionType": "ride",
+      "thrillLevel": "high",
+      "targetAudience": [
+        "teens",
+        "adults"
+      ],
+      "minHeightCm": 120,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "ride",
+        "land:worlds-of-pixar",
+        "thrill:high",
+        "height-restriction"
+      ]
+    }
+  },
+  {
+    "id": "slinky-dog-zigzag-spin",
+    "parkId": "walt-disney-studios-park",
+    "name": "Slinky Dog Zigzag Spin",
+    "land": "Worlds of Pixar",
+    "description": "A family spinning attraction themed to Toy Story where Slinky Dog pulls guests around a playful track.",
+    "x": 66.41,
+    "y": 30.55,
+    "guideMapNumber": 7,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/_08KP7smbRY/maxresdefault.jpg",
+        "https://i.ytimg.com/vi/_08KP7smbRY/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/_08KP7smbRY"
+    },
+    "metadata": {
+      "attractionType": "ride",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "toddlers",
+        "kids",
+        "family"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "ride",
+        "land:worlds-of-pixar",
+        "thrill:low",
+        "any-height"
+      ]
+    }
+  },
+  {
+    "id": "toy-soldiers-parachute-drop",
+    "parkId": "walt-disney-studios-park",
+    "name": "Toy Soldiers Parachute Drop",
+    "land": "Worlds of Pixar",
+    "description": "A parachute-style tower ride with gentle bounces and broad views over the park.",
+    "x": 61.3,
+    "y": 35.8,
+    "guideMapNumber": 8,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/QxUy0tJq55E/maxresdefault.jpg",
+        "https://i.ytimg.com/vi/QxUy0tJq55E/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/QxUy0tJq55E"
+    },
+    "metadata": {
+      "attractionType": "ride",
+      "thrillLevel": "moderate",
+      "targetAudience": [
+        "kids",
+        "family",
+        "teens"
+      ],
+      "minHeightCm": 81,
+      "minHeightSoloCm": null,
+      "indoor": false,
+      "tags": [
+        "ride",
+        "land:worlds-of-pixar",
+        "thrill:moderate",
+        "height-restriction"
+      ]
+    }
+  },
+  {
+    "id": "mickey-and-the-magician",
+    "parkId": "walt-disney-studios-park",
+    "name": "Mickey and the Magician",
+    "land": "Animation Theater",
+    "description": "A large-scale live stage show where Mickey discovers famous Disney worlds through illusion, music, and effects.",
+    "x": 62.25,
+    "y": 65.49,
+    "guideMapNumber": 9,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/O54xt6KVQB0/maxresdefault.jpg",
+        "https://i.ytimg.com/vi/O54xt6KVQB0/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/O54xt6KVQB0"
+    },
+    "metadata": {
+      "attractionType": "show",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "kids",
+        "family"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": true,
+      "tags": [
+        "show",
+        "land:animation-theater",
+        "thrill:low",
+        "any-height",
+        "live-entertainment"
+      ]
+    }
+  },
+  {
+    "id": "together-pixar-musical-adventure",
+    "parkId": "walt-disney-studios-park",
+    "name": "TOGETHER: a Pixar Musical Adventure",
+    "land": "Studio Theater",
+    "description": "A contemporary musical stage production celebrating Pixar stories with live performances and multimedia effects.",
+    "x": 37.53,
+    "y": 59.08,
+    "guideMapNumber": 10,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/-a52R-FKvWU/maxresdefault.jpg",
+        "https://i.ytimg.com/vi/-a52R-FKvWU/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/-a52R-FKvWU"
+    },
+    "metadata": {
+      "attractionType": "show",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "kids",
+        "family"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": true,
+      "tags": [
+        "show",
+        "land:studio-theater",
+        "thrill:low",
+        "any-height",
+        "live-entertainment"
+      ]
+    }
+  },
+  {
+    "id": "bistrot-chez-remy",
+    "parkId": "walt-disney-studios-park",
+    "name": "Bistrot Chez Rémy",
+    "land": "Worlds of Pixar",
+    "description": "A Ratatouille-themed table-service restaurant with oversized decor that makes guests feel miniature.",
+    "x": 74.95,
+    "y": 25.58,
+    "guideMapNumber": 11,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/_dlrQ6AqRE4/maxresdefault.jpg",
+        "https://i.ytimg.com/vi/_dlrQ6AqRE4/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/_dlrQ6AqRE4"
+    },
+    "metadata": {
+      "attractionType": "dining",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "toddlers",
+        "family",
+        "adults"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": true,
+      "tags": [
+        "dining",
+        "land:worlds-of-pixar",
+        "thrill:low",
+        "any-height",
+        "food"
+      ]
+    }
+  },
+  {
+    "id": "marvel-pym-kitchen",
+    "parkId": "walt-disney-studios-park",
+    "name": "Marvel Pym Kitchen",
+    "land": "Avengers Campus",
+    "description": "A Marvel-inspired buffet concept with playful oversized and miniaturized dishes based on Pym particle experiments.",
+    "x": 25.05,
+    "y": 43.86,
+    "guideMapNumber": 12,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/RxFBSMxAsJw/maxresdefault.jpg",
+        "https://i.ytimg.com/vi/RxFBSMxAsJw/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/RxFBSMxAsJw"
+    },
+    "metadata": {
+      "attractionType": "dining",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "toddlers",
+        "family",
+        "adults"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": true,
+      "tags": [
+        "dining",
+        "land:avengers-campus",
+        "thrill:low",
+        "any-height",
+        "food"
+      ]
+    }
+  },
+  {
+    "id": "stark-factory-pizza-pasta",
+    "parkId": "walt-disney-studios-park",
+    "name": "Stark Factory: Pizza & Pasta",
+    "land": "Avengers Campus",
+    "description": "A quick-service dining venue in Avengers Campus focused on pizza, pasta, and superhero-themed industrial ambiance.",
+    "x": 16.52,
+    "y": 39.05,
+    "guideMapNumber": 13,
+    "media": {
+      "imageUrls": [
+        "https://i.ytimg.com/vi/IA43KdltKtI/maxresdefault.jpg",
+        "https://i.ytimg.com/vi/IA43KdltKtI/hqdefault.jpg"
+      ],
+      "youtubeVideoUrl": "https://www.youtube.com/embed/IA43KdltKtI"
+    },
+    "metadata": {
+      "attractionType": "dining",
+      "thrillLevel": "low",
+      "targetAudience": [
+        "toddlers",
+        "family",
+        "adults"
+      ],
+      "minHeightCm": null,
+      "minHeightSoloCm": null,
+      "indoor": true,
+      "tags": [
+        "dining",
+        "land:avengers-campus",
+        "thrill:low",
+        "any-height",
+        "food"
+      ]
+    }
+  }
+]

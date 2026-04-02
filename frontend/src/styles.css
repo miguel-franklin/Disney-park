@@ -1,0 +1,569 @@
+:root {
+  color-scheme: light;
+  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  line-height: 1.4;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #eef3f8;
+  color: #152033;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.app__content {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 360px;
+  gap: 1rem;
+  min-height: 0;
+  flex: 1;
+}
+
+.app__map-column {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.attraction-filters {
+  border: 1px solid #d2dceb;
+  border-radius: 0.85rem;
+  background: #fff;
+  padding: 0.8rem;
+  display: grid;
+  gap: 0.55rem;
+}
+
+.attraction-filters__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.attraction-filters__header h2 {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.attraction-filters__header button {
+  border: 1px solid #c8d3e4;
+  background: #fff;
+  color: #1e2b42;
+  border-radius: 0.45rem;
+  padding: 0.25rem 0.5rem;
+  cursor: pointer;
+  font-size: 0.8rem;
+}
+
+.attraction-filters__accordion-toggle {
+  font-weight: 700;
+}
+
+.attraction-filters__body {
+  display: grid;
+  gap: 0.55rem;
+}
+
+.attraction-filters__search {
+  display: grid;
+  gap: 0.25rem;
+  font-size: 0.8rem;
+  color: #334155;
+}
+
+.attraction-filters__search input {
+  border: 1px solid #c8d3e4;
+  background: #fff;
+  border-radius: 0.45rem;
+  padding: 0.42rem 0.5rem;
+  font-size: 0.85rem;
+}
+
+.attraction-filters__group {
+  margin: 0;
+  padding: 0;
+  border: none;
+  display: grid;
+  gap: 0.3rem;
+}
+
+.attraction-filters__group legend {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: #334155;
+  margin-bottom: 0.2rem;
+}
+
+.attraction-filters__chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.attraction-filters__chips button {
+  border: 1px solid #c8d3e4;
+  background: #fff;
+  color: #1e2b42;
+  border-radius: 999px;
+  padding: 0.22rem 0.52rem;
+  font-size: 0.75rem;
+  cursor: pointer;
+}
+
+.attraction-filters__chips button.is-active {
+  border-color: #1c4ed8;
+  background: #1c4ed8;
+  color: #fff;
+}
+
+.attraction-filters__row {
+  display: flex;
+  gap: 0.7rem;
+  font-size: 0.8rem;
+  color: #1e293b;
+}
+
+.attraction-filters__row label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.attraction-filters__result {
+  margin: 0;
+  font-size: 0.8rem;
+  color: #334155;
+  font-weight: 600;
+}
+
+.park-selector {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.park-selector__button {
+  border: 1px solid #c8d3e4;
+  background: white;
+  color: #1e2b42;
+  padding: 0.55rem 0.9rem;
+  border-radius: 999px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.park-selector__button.is-active {
+  background: #1c4ed8;
+  border-color: #1c4ed8;
+  color: white;
+}
+
+.park-map-section {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.park-map-section__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.park-map-section__header h1 {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.park-map-section__actions {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  font-size: 0.9rem;
+}
+
+.park-map-section__actions button {
+  border: 1px solid #c8d3e4;
+  background: white;
+  padding: 0.4rem 0.65rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+.park-map-section__actions button.is-primary {
+  background: #1c4ed8;
+  border-color: #1c4ed8;
+  color: #fff;
+}
+
+.park-map-section__status {
+  margin: 0;
+  font-size: 0.82rem;
+  color: #1e3a8a;
+}
+
+.park-map-section__floors {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.park-map-section__floor-button {
+  border: 1px solid #c8d3e4;
+  background: #fff;
+  color: #1e2b42;
+  padding: 0.35rem 0.7rem;
+  border-radius: 999px;
+  font-weight: 600;
+  font-size: 0.82rem;
+  cursor: pointer;
+}
+
+.park-map-section__floor-button.is-active {
+  background: #1c4ed8;
+  border-color: #1c4ed8;
+  color: #fff;
+}
+
+.park-map-viewport {
+  position: relative;
+  border-radius: 0.9rem;
+  overflow: hidden;
+  border: 1px solid #d2dceb;
+  background: #d8e1f0;
+  height: calc(100vh - 180px);
+  min-height: 540px;
+  touch-action: auto;
+}
+
+.park-map-viewport.is-dragging {
+  cursor: grabbing;
+}
+
+.park-map-canvas {
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform-origin: 0 0;
+}
+
+/* Sized to the image so marker x/y percentages match the PDF raster. */
+.park-map-stack {
+  position: relative;
+  width: 100%;
+  min-width: 100%;
+}
+
+.park-map-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  vertical-align: top;
+  background: #e8edf4;
+  pointer-events: none;
+  user-select: none;
+}
+
+.park-map-zones {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+.park-map-markers {
+  position: absolute;
+  inset: 0;
+}
+
+.map-floating-card {
+  position: absolute;
+  width: min(420px, 52vw);
+  max-height: min(78vh, 760px);
+  overflow: auto;
+  border: 1px solid #d2dceb;
+  border-radius: 0.65rem;
+  background: rgba(255, 255, 255, 0.96);
+  backdrop-filter: blur(2px);
+  box-shadow: 0 10px 24px rgba(15, 23, 42, 0.2);
+  padding: 0.55rem 0.65rem;
+  z-index: 15;
+  transform: translateY(-50%);
+}
+
+.map-floating-card .attraction-popup {
+  border: none;
+  border-radius: 0;
+  background: transparent;
+  padding: 0;
+  min-height: 0;
+}
+
+/* Anchor: center of hit area (and dot) sits on x/y — match the map’s pin / red dot under each number. */
+.attraction-marker {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  margin: 0;
+  padding: 0;
+  transform: translate(-50%, -50%);
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.attraction-marker.is-editing {
+  cursor: grab;
+}
+
+.attraction-marker.is-editing:active {
+  cursor: grabbing;
+}
+
+.attraction-marker__dot {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 22px;
+  height: 22px;
+  padding: 0 5px;
+  border-radius: 999px;
+  border: 2px solid white;
+  background: #ef4444;
+  color: white;
+  font-size: 11px;
+  font-weight: 700;
+  line-height: 1;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.35);
+}
+
+.attraction-marker.is-active .attraction-marker__dot {
+  background: #0f766e;
+}
+
+.attraction-popup,
+.attraction-placeholder {
+  background: white;
+  border-radius: 0.9rem;
+  border: 1px solid #d2dceb;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  min-height: 420px;
+}
+
+.attraction-popup__header {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.8rem;
+}
+
+.attraction-popup__header h2 {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.attraction-popup__land {
+  margin: 0;
+  color: #475569;
+  font-size: 0.8rem;
+}
+
+.attraction-popup__close {
+  border: 1px solid #c8d3e4;
+  background: white;
+  border-radius: 0.5rem;
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+}
+
+.attraction-popup__description {
+  margin: 0;
+  font-size: 0.92rem;
+  line-height: 1.5;
+  color: #253144;
+}
+
+.attraction-popup__description-block {
+  padding: 0.65rem 0.75rem;
+  border: 1px solid #dde6f2;
+  border-radius: 0.5rem;
+  background: linear-gradient(180deg, #f8fbff 0%, #f4f8ff 100%);
+}
+
+.attraction-popup__meta {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.45rem;
+}
+
+.attraction-popup__meta-item {
+  padding: 0.55rem 0.6rem;
+  border: 1px solid #dde6f2;
+  border-radius: 0.55rem;
+  background: #f8fbff;
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+}
+
+.attraction-popup__meta-item--wide {
+  grid-column: 1 / -1;
+}
+
+.attraction-popup__meta-label {
+  margin: 0;
+  color: #64748b;
+  font-size: 0.74rem;
+  line-height: 1.2;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-weight: 700;
+}
+
+.attraction-popup__meta-value {
+  margin: 0.2rem 0 0;
+  color: #1e293b;
+  font-size: 0.88rem;
+  line-height: 1.35;
+  font-weight: 600;
+}
+
+.meta-icon {
+  width: 1.45rem;
+  height: 1.45rem;
+  border-radius: 999px;
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: #e2ebff;
+  border: 1px solid #c6d7ff;
+}
+
+.meta-icon svg {
+  width: 0.88rem;
+  height: 0.88rem;
+  stroke: #1747b0;
+  stroke-width: 1.8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill: none;
+}
+
+.attraction-popup__chips {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.35rem;
+}
+
+.attraction-popup__chip {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.2rem 0.35rem;
+  border-radius: 999px;
+  border: 1px solid #cad9f7;
+  background: #eef4ff;
+  color: #264a9d;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+
+.attraction-popup__hero {
+  width: 100%;
+  height: 180px;
+  border-radius: 0.5rem;
+  object-fit: cover;
+  border: 1px solid #dde6f2;
+}
+
+.attraction-popup__thumbs {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.4rem;
+}
+
+.attraction-popup__thumb {
+  border: 2px solid transparent;
+  border-radius: 0.4rem;
+  overflow: hidden;
+  padding: 0;
+  background: transparent;
+  cursor: pointer;
+}
+
+.attraction-popup__thumb.is-active {
+  border-color: #1c4ed8;
+}
+
+.attraction-popup__thumb img {
+  width: 100%;
+  height: 60px;
+  object-fit: cover;
+  display: block;
+}
+
+.attraction-popup__video iframe {
+  width: 100%;
+  height: 210px;
+  border: 0;
+  border-radius: 0.5rem;
+}
+
+.attraction-popup__video-fallback {
+  padding: 1rem;
+  background: #f1f5f9;
+  border-radius: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.attraction-popup__video-fallback p {
+  margin: 0 0 0.5rem;
+}
+
+.attraction-popup__video-link {
+  font-weight: 600;
+  color: #1c4ed8;
+}
+
+@media (max-width: 1024px) {
+  .app__content {
+    grid-template-columns: 1fr;
+  }
+
+  .park-map-viewport {
+    height: 58vh;
+    min-height: 420px;
+  }
+
+  .attraction-popup__chips {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .map-floating-card {
+    width: min(360px, 86vw);
+    max-height: 72vh;
+  }
+}
